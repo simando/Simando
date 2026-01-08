@@ -1,8 +1,8 @@
-# Hi there, I'm Simando 👋
+# Hello there
 
 ## About Me
-- 🔭 I’m currently working on Raspberry Pi Network and DevOps Toolkit
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on my Proxmox server with VMs and LXC containers
+- 🌱 I’m currently learning... bunch of interesting stuff
 - 📫 How to reach me: https://www.jakubsimon.net
 
 ## My GitHub Stats
