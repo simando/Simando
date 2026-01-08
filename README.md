@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.jakubsimon.net
 
 ## My GitHub Stats
-![Simando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simando&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simando&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simando&layout=compact&theme=radical)
