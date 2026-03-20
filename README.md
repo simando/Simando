@@ -1,5 +1,5 @@
 # hello there
-<div class="tenor-gif-embed" data-postid="9625238595306401173" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pickles-and-walter-walter-pickles-aniken-obi-wan-gif-9625238595306401173">Pickles And Walter Aniken Meme</a>from <a href="https://tenor.com/search/pickles+and+walter-memes">Pickles And Walter Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/hZO3gXeeLZUAAAAC/pickles-and-walter-walter.gif" width="300">
 software developer (read "professional googler"). I build things. some of them even work.
 
 ---
