@@ -13,10 +13,6 @@ software developer (read "professional googler"). I build things. some of them e
 
 **Encrypted Chat App** - chat control 2.0 is pissing me off so I want to have a private alternative just in case.
 
-## Ongoing projects
-- Custom LLM
-- Home server
-
 ---
 
 ## current arc
@@ -24,6 +20,16 @@ software developer (read "professional googler"). I build things. some of them e
 learning Python. not because I wanted to, but because the project demanded it and I lost the argument with myself.
  
 also running a homelab where I self-host stuff, break things, fix them, break them again, and call it "learning". docker containers, web servers and reverse proxies, pentesting, the whole bit. it's cheap and not stressfull at all.
+ 
+---
+
+## tech
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
  
 ---
 
